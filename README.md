@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 discord.gg/israil
 
 
-https://discord.com/users/254272175119400970
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
