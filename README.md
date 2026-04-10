@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-discord.gg/israil
+discord.gg/ingiltere
 
 
 
