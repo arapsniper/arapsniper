@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ## 🛠️ Languages & Tools
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/254272175119400970?bg=0d1117)](https://discord.com/users/254272175119400970)
 
 
 discord.gg/idk
